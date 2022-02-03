@@ -28,6 +28,9 @@ h2,
 h3,
 h4 {
     font-family: 'Lobster', cursive;
+    background-color: #FF34DE;
+    padding: 10%;
+    margin: 10%;
 }
 
 .date {
